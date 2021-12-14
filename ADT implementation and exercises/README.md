@@ -1,2 +1,2 @@
 # ORT
-C++ avl, graph, hash, heap, list
+C++ avl, graph, hash, heap, list implementation and exercises
